@@ -1,0 +1,382 @@
+{
+  "id": "sun-happysmash27",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@happysmash27 Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_74d77b84440b",
+    "display_name": "happysmash27",
+    "user_id": "@happysmash27",
+    "description": "Community Archive-derived proof-of-search sun for @happysmash27.",
+    "document_count": 17275,
+    "word_count": 598947,
+    "active_days": 1144,
+    "emissions": [
+      "Time",
+      "Other",
+      "Really",
+      "Too",
+      "Things",
+      "Only"
+    ],
+    "generated_at": "2026-06-27T16:09:44.977954+00:00",
+    "color": "#f59e0b",
+    "mass": 13.303
+  },
+  "planets": [
+    {
+      "id": "planet_708570d4ab61",
+      "name": "Time",
+      "summary": "Archive cluster around time: 12341 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "still",
+        "which",
+        "now",
+        "could"
+      ],
+      "artifacts": [
+        {
+          "id": "art_cf003704bca9",
+          "title": "Time receipt from 2025-08-08",
+          "excerpt": "@colin_fraser It seems to work fine in Thinking mode: https://t.co/dhkoQLqev3",
+          "source_document_id": "1953688705610215768",
+          "timestamp": "2025-08-08T05:24:19+00:00",
+          "url": "https://x.com/happysmash27/status/1953688705610215768",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, still, which, now."
+        },
+        {
+          "id": "art_adc271a9c6f6",
+          "title": "Time receipt from 2024-08-19",
+          "excerpt": "@levelsio @larry0x It's certainly available on Google's natve platform Android and works quite well there: https://t.co/cWfISHlZT0",
+          "source_document_id": "1825628514399494161",
+          "timestamp": "2024-08-19T20:18:51+00:00",
+          "url": "https://x.com/happysmash27/status/1825628514399494161",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, still, which, now."
+        },
+        {
+          "id": "art_0115881e6ede",
+          "title": "Time receipt from 2025-10-08",
+          "excerpt": "@davepl1968 @adam_s_brookes People throw perfectly good computers into ewaste all the time these days.\n\nBack when I was a kid, someone really really nice gave me an old Optiplex 755 for free.\n\nCurrently it's sitting under my bed in my studio apt in case I need it. https://t.co/IukEbVr7ql",
+          "source_document_id": "1975994376334737628",
+          "timestamp": "2025-10-08T18:39:06+00:00",
+          "url": "https://x.com/happysmash27/status/1975994376334737628",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, still, which, now."
+        },
+        {
+          "id": "art_20317f916f21",
+          "title": "Time receipt from 2024-05-09",
+          "excerpt": "@knowclarified Wasn't the orginal Manhattan Project secret? So how can we be so sure the US has not?",
+          "source_document_id": "1788608330782605698",
+          "timestamp": "2024-05-09T16:33:51+00:00",
+          "url": "https://x.com/happysmash27/status/1788608330782605698",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, still, which, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9646aa79a954",
+      "proof_score": 1,
+      "mass": 38.691,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_6f5a6b81e2b3",
+      "name": "Other",
+      "summary": "Archive cluster around other: 1298 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "other",
+        "things",
+        "any",
+        "too",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_04b614e81764",
+          "title": "Other receipt from 2025-02-12",
+          "excerpt": "@neogoose_btw Not accurate. The original pic also includes Palemoon, Waterfox, IceCat, and other browsers which are based on Firefox, not Chrone.",
+          "source_document_id": "1889635644298719443",
+          "timestamp": "2025-02-12T11:20:19+00:00",
+          "url": "https://x.com/happysmash27/status/1889635644298719443",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: other, things, any, too."
+        },
+        {
+          "id": "art_b56e35629457",
+          "title": "Other receipt from 2025-03-12",
+          "excerpt": "@uwukko If @YouTube does this I will cancel my YouTube Premium subscription. The devices I watch YouTube on all have DRM disabled, so if it affects any of them, that is when I will cancel.\n\nDRM is why I subscribe to no other streaming service than that one.",
+          "source_document_id": "1899690188982661388",
+          "timestamp": "2025-03-12T05:13:30+00:00",
+          "url": "https://x.com/happysmash27/status/1899690188982661388",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: other, things, any, too."
+        },
+        {
+          "id": "art_2b562f5a52b5",
+          "title": "Other receipt from 2024-04-01",
+          "excerpt": "@GeorgistSteve Simply do not give covenants/HOAs the legal authority to control what other people do on property they own. If you own it, you should be able to do what you want with it as long as it does not violate the rights of others.",
+          "source_document_id": "1774685419524997572",
+          "timestamp": "2024-04-01T06:29:10+00:00",
+          "url": "https://x.com/happysmash27/status/1774685419524997572",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: other, things, any, too."
+        },
+        {
+          "id": "art_693a0e8c9062",
+          "title": "Other receipt from 2024-06-20",
+          "excerpt": "@SmoothDunk I feel like this comic was written to portray the people in the boat as wrong, but… it can totally be interpreted the other way too: If stonehenge ends up (via hyperbole) underwater, then clearly that was not a very effective method of climate advocacy.",
+          "source_document_id": "1803849935483490499",
+          "timestamp": "2024-06-20T17:58:33+00:00",
+          "url": "https://x.com/happysmash27/status/1803849935483490499",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: other, things, any, too."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e996047cf6de",
+      "proof_score": 1,
+      "mass": 32.787,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_1c121c3782c1",
+      "name": "Really",
+      "summary": "Archive cluster around really: 1062 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "don",
+        "good",
+        "things",
+        "think"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a71257f8d384",
+          "title": "Really receipt from 2025-07-17",
+          "excerpt": "@Adgarpo1 @GatorRex2 @isaacturnersong The explanation makes no sense and is written in ChatGPT style. I think the article was written by a ChatGPT model that didn't really understand it either.",
+          "source_document_id": "1945887413693477104",
+          "timestamp": "2025-07-17T16:44:46+00:00",
+          "url": "https://x.com/happysmash27/status/1945887413693477104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, good, things."
+        },
+        {
+          "id": "art_f18f2a8e779f",
+          "title": "Really receipt from 2024-09-04",
+          "excerpt": "@sighswoon Is it really, tho? Cars have changed pretty substantially. https://t.co/uAcBP1tvFe",
+          "source_document_id": "1831215199388610880",
+          "timestamp": "2024-09-04T06:18:20+00:00",
+          "url": "https://x.com/happysmash27/status/1831215199388610880",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, good, things."
+        },
+        {
+          "id": "art_0ee8e74dcc0d",
+          "title": "Really receipt from 2025-01-07",
+          "excerpt": "@ProRebornYT How much VRAM?\n\nIf under 32GB, it's junk as far as I'm concerned.\n\nReally it should be at least 64GB and support pooling VRAM to be able to properly support even contemporary local AI, and even that would require combining multiple cards.",
+          "source_document_id": "1876509623399911453",
+          "timestamp": "2025-01-07T06:02:12+00:00",
+          "url": "https://x.com/happysmash27/status/1876509623399911453",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, good, things."
+        },
+        {
+          "id": "art_220410f53382",
+          "title": "Really receipt from 2024-09-06",
+          "excerpt": "@AlexGDimakis @DimitrisPapail Crazy how I could immediately tell it was ChatGPT within the first 2 or 3 sentences!\n\nHow is it so obvious?? There's not even any obvious giveaway there – it just really, strongly, feels like ChatGPT!",
+          "source_document_id": "1832101407358595137",
+          "timestamp": "2024-09-06T16:59:48+00:00",
+          "url": "https://x.com/happysmash27/status/1832101407358595137",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, good, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d3c3e82cd42c",
+      "proof_score": 1,
+      "mass": 31.98,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_cd361d5a8114",
+      "name": "Too",
+      "summary": "Archive cluster around too: 996 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "too",
+        "now",
+        "way",
+        "still",
+        "though"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2266b404892a",
+          "title": "Too receipt from 2025-04-09",
+          "excerpt": "@TheBobPony After Firefox dropped XUL, Palemoon.\n\nThen after Palemoon started getting too outdated, Waterfox.\n\nThen after Waterfox Classic started getting too outdated, Firefox.",
+          "source_document_id": "1910094001946189972",
+          "timestamp": "2025-04-09T22:14:32+00:00",
+          "url": "https://x.com/happysmash27/status/1910094001946189972",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, way, still."
+        },
+        {
+          "id": "art_794e28495f17",
+          "title": "Too receipt from 2024-09-10",
+          "excerpt": "@BigDickBarclay @uncledoomer Creates CO² emissions, resulting in increased climate change; and more importantly, it makes you dependent on the oil companies instead of being able to charge from any random source of electricity (e.g, solar panels). Electric allows regenerative breaking too, which I love.",
+          "source_document_id": "1833398187807412652",
+          "timestamp": "2024-09-10T06:52:45+00:00",
+          "url": "https://x.com/happysmash27/status/1833398187807412652",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, way, still."
+        },
+        {
+          "id": "art_e8b1b9262743",
+          "title": "Too receipt from 2025-08-31",
+          "excerpt": "@CilComLFC @lydiakauppi There are already tons of electric vehicles around with no government-controlled remote shutoff function, so requiring vehicles to be electric would not be enough to have every vehicle support remote shut-off.\n\nRemote shut-off requirements, OTOH, would apply to gas vehicles, too.",
+          "source_document_id": "1962299407967338591",
+          "timestamp": "2025-08-31T23:40:11+00:00",
+          "url": "https://x.com/happysmash27/status/1962299407967338591",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, way, still."
+        },
+        {
+          "id": "art_65d3d621461d",
+          "title": "Too receipt from 2025-03-31",
+          "excerpt": "@PatrickAbrazos @BENZOTOOIE Wait, for real?? No AI used at all?\n(I think it is; it looks way too unique to be AI-generated)\n\nI'm super impressed! This is VERY good for $0, and much better than I'd expect to be replied to this thread.",
+          "source_document_id": "1906533519574368419",
+          "timestamp": "2025-03-31T02:26:27+00:00",
+          "url": "https://x.com/happysmash27/status/1906533519574368419",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, now, way, still."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_234c840c458b",
+      "proof_score": 1,
+      "mass": 31.643,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_2805319c9467",
+      "name": "Things",
+      "summary": "Archive cluster around things: 739 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "things",
+        "lot",
+        "better",
+        "could",
+        "don"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a477c7ff9f10",
+          "title": "Things receipt from 2024-12-11",
+          "excerpt": "@boneGPT Is this a real photo or AI-generated?\n\nIt's such a great photograph if real. The homeless person next to the ad… very emblematic of how things may result in the future.",
+          "source_document_id": "1866987017344831521",
+          "timestamp": "2024-12-11T23:22:46+00:00",
+          "url": "https://x.com/happysmash27/status/1866987017344831521",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, lot, better, could."
+        },
+        {
+          "id": "art_21d9fd2db4fc",
+          "title": "Things receipt from 2024-09-05",
+          "excerpt": "@pli_cachete Well, they did say 5 years. Seems a pretty good prediction given how things are turning out 10 years later!\n\n(Also, woah, 2014 is 10 years ago now!)",
+          "source_document_id": "1831773112658002099",
+          "timestamp": "2024-09-05T19:15:17+00:00",
+          "url": "https://x.com/happysmash27/status/1831773112658002099",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, lot, better, could."
+        },
+        {
+          "id": "art_209ded77e035",
+          "title": "Things receipt from 2024-08-19",
+          "excerpt": "@levelsio @larry0x I refuse to use any platform that doesn't let me root it to get updates years after manufacture support and do things like system-wide ad blocking, and where you have to pay for super basic things like terminal emulators and RAW photography.\nhttps://t.co/Dcu2L7j3WQ",
+          "source_document_id": "1825629670857146811",
+          "timestamp": "2024-08-19T20:23:26+00:00",
+          "url": "https://x.com/happysmash27/status/1825629670857146811",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, lot, better, could."
+        },
+        {
+          "id": "art_9371b094c0f9",
+          "title": "Things receipt from 2024-04-07",
+          "excerpt": "@somewheresy Half the reason I am so pro AI is for contests like this – particularly ones with less large prizes – where doing things manually does not make that much sense in terms of hourly pay relative to the prize.",
+          "source_document_id": "1777050275314086034",
+          "timestamp": "2024-04-07T19:06:16+00:00",
+          "url": "https://x.com/happysmash27/status/1777050275314086034",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, lot, better, could."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6bbd37f53895",
+      "proof_score": 1,
+      "mass": 30.982,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_f3ac4bdba252",
+      "name": "Only",
+      "summary": "Archive cluster around only: 839 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "only",
+        "now",
+        "use",
+        "which",
+        "work"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3349c6478b19",
+          "title": "Only receipt from 2024-12-04",
+          "excerpt": "@LinkofSunshine Even after 100 years $50/mo is only $60,000.\n\nAlso if I'm calculating correctly you can make quite a bit more than just $50/mo passively by just investing the $1,000,000, even just in a mundane High Yield Savings Account.",
+          "source_document_id": "1864192233127465330",
+          "timestamp": "2024-12-04T06:17:18+00:00",
+          "url": "https://x.com/happysmash27/status/1864192233127465330",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, now, use, which."
+        },
+        {
+          "id": "art_aa8a5678ace2",
+          "title": "Only receipt from 2024-08-18",
+          "excerpt": "@DefenderOfBasic I've been millitantly blocking all ads for years now but sometimes, once in a while, want to see what ads are these days. I've searched for a website with just ads only, but did not find one. This reminds me, I should probably just create that.",
+          "source_document_id": "1825010860835963128",
+          "timestamp": "2024-08-18T03:24:30+00:00",
+          "url": "https://x.com/happysmash27/status/1825010860835963128",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, now, use, which."
+        },
+        {
+          "id": "art_5b6456ea90ae",
+          "title": "Only receipt from 2024-03-19",
+          "excerpt": "@browserdotsys This is the same input, right? I have thus far not been able to spot any differences. Or maybe I can only see in sha256?",
+          "source_document_id": "1770198881151930849",
+          "timestamp": "2024-03-19T21:21:16+00:00",
+          "url": "https://x.com/happysmash27/status/1770198881151930849",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, now, use, which."
+        },
+        {
+          "id": "art_5df077bfa1c4",
+          "title": "Only receipt from 2025-05-19",
+          "excerpt": "@haius_cosaintus @BobMurphyEcon ??\n\nBut it's only a 3.5 hr drive?\n\nI've spent longer than that crossing LA with public transit before I had a car. https://t.co/wcmJhCbIj8",
+          "source_document_id": "1924545868231016966",
+          "timestamp": "2025-05-19T19:21:05+00:00",
+          "url": "https://x.com/happysmash27/status/1924545868231016966",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, now, use, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_29a6d27ca6dc",
+      "proof_score": 1,
+      "mass": 31.194,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
